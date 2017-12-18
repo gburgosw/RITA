@@ -1,0 +1,33 @@
+import os
+from pocketsphinx import LiveSpeech
+import behavior.naochat.aiml as aiml
+import time
+from subprocess import call
+
+k = aiml.Kernel()
+k.learn("std-startup.xml")
+k.respond("LOAD AIML B")
+#k.saveBrain("behavior/naochat/standart.brn")
+os.system("clear")
+os.system("espeak -ves+f4 'Estoy lista, Hola!'")
+print("RITA:	te escucho")
+
+speech = LiveSpeech(
+	verbose=False,
+	sampling_rate=16000,
+	buffer_size=2048,
+	no_search=False,
+	full_utt=False,
+	hmm='/home/rita/Escritorio/RITAv2/cmusphinx-es-5.2/model_parameters/voxforge_es_sphinx.cd_ptm_4000',
+	lm='/home/rita/Escritorio/RITAv2/es-20k.lm',
+	dic='/home/rita/Escritorio/RITAv2/es.dict'
+)
+
+for phrase in speech:
+	a = str(phrase)
+	print("Usuario:	"+a)
+	Cadena = k.respond(a)
+	print("RITA:	"+Cadena)
+	os.system("espeak -ves+f4 '"+Cadena+"'")
+	time.sleep(1)
+	print("RITA:	te escucho...")
