@@ -1,0 +1,28 @@
+<aiml version="1.0">
+
+<!-- This category works with the Standard AIML Set -->
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- Load standard AIML set -->
+<learn>/home/rita/Escritorio/GRita/aiml-set/65percent.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/chismes.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/conocimiento.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/default.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/deportes.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/geografia.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/inventos.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/nombres.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/numeros.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/reptiles.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/sara.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/sara_srai.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/si-no.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/sufijos.aiml</learn>
+<learn>/home/rita/Escritorio/GRita/aiml-set/turing.aiml</learn>
+
+</template>
+</category>
+
+</aiml>
