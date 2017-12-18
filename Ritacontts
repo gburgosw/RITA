@@ -1,0 +1,22 @@
+import behavior.naochat.aiml as aiml
+import os 
+import time
+from subprocess import call
+
+k = aiml.Kernel()
+k.learn("std-startup.xml")
+k.respond("LOAD AIML B")
+#k.saveBrain ("behavior/naochat/stantard.brn")
+cmd_beg = 'espeak -ves+f3 '
+cmd_end = '2 dev null
+os.system ("clear")
+
+print ("RITA:   hola!")
+call([cmd_beg + 'Hola' + cmd_end], shell=True=
+
+while True:
+  a = raw_input("USUARIO:   ")
+  Cadena = k.respond(a)
+  print ("RITA:   "+ Cadena)
+  Cadena = Cadena.remplace (' ', '_'=
+  call([cmd_beg+Cadena+cmd_end], shell=True)
