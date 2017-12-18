@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "totemic-studio-185104",
+  "private_key_id": "2a43ce7b6261a80d8509e6ef4e8923a0a788d032",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC34Qtf9w6FTZA1\ncIYTJDJfhfn45xKFl5EgRygye2CAESRXM8DJl0NCY9tQlBnaL9iDJ0kWPgKdpT1g\nbQ6EQRgWwAmJXwazpkvVaeEF0ed1q86T1Yrw7sf7CkZlvs/XnEhz85Fjw3anh/Wg\nDDMohm2C0y1JWunIs6qHZQS7dKAupYV4YrR5tNs2+xrRrXOsS9ShwSBeon1oSLwe\nZf3ynqwyIR3/cTXiv6firg7Bah99khc6lPwWTDoChdOjdaHGtG1KVwlyQOAXvJL/\nBAq7C9Zsg0IaFOBoGZzf1veWREeGkAfF0MHNUmh8gDV9+smCtio8T+hrriFNFrzy\naOyvTiC/AgMBAAECggEAHtSscBRACojVR6iMynPUwGB558pyuBSQQE2+ByzZos98\n/OQQDJ0AqYaNtMaISSWhk2gIYKLYFG+qyVqvxuwVKmdbkf1tZbzZ1TgyAyRNP1Ul\nx3LUH46h2E1CPXgPaFLrcQmjVItm/zMUM5goEcDsZrWaz8RfE4hQbPA6qWWmH/vW\njXp53JCyFOJcIWVDNp8ZkVHnvxo/yBjiTWclovE9KhxT8i2JuqztTNDcx3Bd4roU\nJu0qNbCPA1AKhWHVv+mYGLuimEhT4mfzL+CL4KH7IICZ5lOD6iDuIZfoMK39JsAA\nlfRZ1QdrwgUZzPNYZK/QUi2BYN9K5ns3UqExt5VAnQKBgQD0bT1mM0iXM8/1JS8r\nykXViSl0PLtQ7QVlusq31X4bcauTmXGzASRCrj9o3eE8Ncp7xwaw+Nz7qqR1SrBD\nMVQXA4pbMwxi+5G4bAMCMKdQuzq33UTf5wg1aw3IEYz22cLF23KgcYoF1gev+Hi5\ncaVLEVPTTFVtK9jiFh3rD+XDbQKBgQDAleQN6nrJuWBbe+7Zifn4hDnCoyHNtmkU\nwSg7YiXRAjcgXJMlpDE4LXNx6uqfh8EcM92p1SkmR8fiqhHK381v4lNRib7we79e\n2+4cNfejI/I/99ft1AVXgkAuNjZepc8gBO2HYRauH1/RtqNhmBRO0cLLLivNxgfk\nTKeIxjWtWwKBgDnPDFJ7lpOMQYbtQHbO5C1Yv2Eqa/L72+bvgrpv19+NxtKl2+pG\nPtk2dPDMaVTgM/+KVt7MPReYiETlYULDC+xVfgeLz0Yp0ZEYmq2N7ER/w6dwwbVi\n4uIfa6cB36ESZ6p7+GRR9h7jO/Y2gfb6FennMzgqOZoUYLs4F+NcYy8RAoGBALsf\naQ1UbaYfps59JuDcPbQI1g6WbzvwJz3xSGQaw1/H5URebuM+HEzXbLqdZQdI4ovC\noXhpE6iMSl2kndEfj/9MS2SIkKwdsR48V6m1jj5HqRQafwYo4l/awP2l00I3nX8h\nCqJl5aGd/n5IFYu4NtM24SyGWi2AYx6ilI5C+NjNAoGANV4i+Z0wBVdOyGajChpE\n87nIYFvRjtqu0lP3LptURZkjgQW98jAh8PjBGQlubYBJXDxX5k7h2XUEHJKwGowz\nUefAx8+ofPNZGHmWq7ozVl0AJMqIW+WGsRmdT+PVwxZNE0BfIp98+PkCdozYQLOn\npK/9tsmW2vsfmaaRdLyFLfU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rita-204@totemic-studio-185104.iam.gserviceaccount.com",
+  "client_id": "110158209423597424214",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rita-204%40totemic-studio-185104.iam.gserviceaccount.com"
+}
